@@ -1,4 +1,3 @@
-# meeting-summarizer
 # Meeting Summarizer
 
 Transcribes meeting audio and generates a structured, action-oriented summary: key decisions, action items (with owner/due date when mentioned), and open questions — plus the full transcript.
